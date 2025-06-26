@@ -55,7 +55,8 @@ A dynamic **Excel-based Data Analytics** project uncovering sales patterns and r
 
 📌 **View the Dashboard:** [🔗 Click Here](https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/ola.pdf)
 
-📌 **View the Dataset:** [🔗 Click Here](https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/ola.pbix)
+📌 **View the Dataset:** [🔗 Click Here](https://github.com/manavpatel7220/Blinkit-Market-Trends-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx)
 
+📌 **View the Full Project excel sheet:** [🔗 Click Here](https://github.com/manavpatel7220/Blinkit-Market-Trends-Analysis/blob/main/BlinkIT%20EXCEL%20PROJECT.xlsx)
 
 
