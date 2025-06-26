@@ -1,18 +1,16 @@
 # Blinkit-Market-Trends-Analysis
 # 🛒 Blinkit Market Trends Analysis  
-![Excel Badge](https://img.shields.io/badge/Microsoft-Excel-success?logo=microsoft-excel&logoColor=white)  
+
 A dynamic **Excel-based Data Analytics** project uncovering sales patterns and retail trends from Blinkit’s grocery data.
 
 ---
 
 ## 📌 Table of Contents
-- [📘 About the Project](#about)
-- [📊 Dashboard Features](#features)
-- [🛠 Tools & Techniques](#tools)
-- [📁 File Structure](#files)
-- [📈 Key Insights](#insights)
-- [🚀 Future Scope](#scope)
-- [📬 Contact](#contact)
+- [📘 About the Project]
+- [📊 Dashboard Features]
+- [🛠 Tools & Techniques]
+- [📈 Key Insights]
+- [🖥️ Dashboard Interaction]
 
 ---
 
@@ -53,7 +51,7 @@ A dynamic **Excel-based Data Analytics** project uncovering sales patterns and r
 
 ## 🖥️ Dashboard Interaction
 
-📌 **View the Dashboard:** [🔗 Click Here](https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/ola.pdf)
+📌 **View the Dashboard:** [🔗 Click Here](https://github.com/manavpatel7220/Blinkit-Market-Trends-Analysis/blob/main/Dashboard%20Snapshot.png)
 
 📌 **View the Dataset:** [🔗 Click Here](https://github.com/manavpatel7220/Blinkit-Market-Trends-Analysis/blob/main/BlinkIT%20Grocery%20Data.xlsx)
 
