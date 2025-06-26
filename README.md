@@ -51,10 +51,11 @@ A dynamic **Excel-based Data Analytics** project uncovering sales patterns and r
 
 ---
 
-## 📊 Project Snapshot
+## 🖥️ Dashboard Interaction
 
-Here’s a glimpse of the interactive Excel dashboard:
+📌 **View the Dashboard:** [🔗 Click Here](https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/ola.pdf)
 
-![Dashboard Preview](C:\Users\91787\Pictures\Screenshots)
+📌 **View the Dataset:** [🔗 Click Here](https://github.com/manavpatel7220/olaDataAnalyticsproject/blob/main/ola.pbix)
+
 
 
